@@ -1,0 +1,23 @@
+[
+    { "marca": "BMW", "modelo": "Serie 3", "año": 2020, "precio": 30000, "puertas": 4, "transmision": "Automatico", "color": "Blanco" },
+    { "marca": "Audi", "modelo": "A4", "año": 2020, "precio": 40000, "puertas": 4, "transmision": "Automatico", "color": "Negro" },
+    { "marca": "Mercedes", "modelo": "C-Class", "año": 2018, "precio": 25000, "puertas": 4, "transmision": "Automatico", "color": "Gris" },
+    { "marca": "Toyota", "modelo": "Corolla", "año": 2019, "precio": 18000, "puertas": 4, "transmision": "Automatico", "color": "Blanco" },
+    { "marca": "Honda", "modelo": "Civic", "año": 2017, "precio": 15000, "puertas": 4, "transmision": "Automatico", "color": "Negro" },
+    { "marca": "Ford", "modelo": "Mustang", "año": 2021, "precio": 45000, "puertas": 2, "transmision": "Manual", "color": "Rojo" },
+    { "marca": "Chevrolet", "modelo": "Camaro", "año": 2020, "precio": 42000, "puertas": 2, "transmision": "Manual", "color": "Amarillo" },
+    { "marca": "Volkswagen", "modelo": "Golf", "año": 2019, "precio": 20000, "puertas": 4, "transmision": "Automatico", "color": "Azul" },
+    { "marca": "Nissan", "modelo": "Sentra", "año": 2020, "precio": 22000, "puertas": 4, "transmision": "Automatico", "color": "Gris" },
+    { "marca": "Hyundai", "modelo": "Elantra", "año": 2021, "precio": 23000, "puertas": 4, "transmision": "Automatico", "color": "Blanco" },
+    { "marca": "Kia", "modelo": "Optima", "año": 2018, "precio": 19000, "puertas": 4, "transmision": "Automatico", "color": "Negro" },
+    { "marca": "Mazda", "modelo": "CX-5", "año": 2020, "precio": 28000, "puertas": 4, "transmision": "Automatico", "color": "Rojo" },
+    { "marca": "Subaru", "modelo": "Outback", "año": 2019, "precio": 27000, "puertas": 4, "transmision": "Automatico", "color": "Azul" },
+    { "marca": "Jeep", "modelo": "Wrangler", "año": 2021, "precio": 35000, "puertas": 2, "transmision": "Manual", "color": "Verde" },
+    { "marca": "Tesla", "modelo": "Model 3", "año": 2022, "precio": 50000, "puertas": 4, "transmision": "Automatico", "color": "Blanco" },
+    { "marca": "Porsche", "modelo": "911", "año": 2020, "precio": 100000, "puertas": 2, "transmision": "Manual", "color": "Negro" },
+    { "marca": "Lexus", "modelo": "RX 350", "año": 2021, "precio": 48000, "puertas": 4, "transmision": "Automatico", "color": "Gris" },
+    { "marca": "Volvo", "modelo": "XC60", "año": 2020, "precio": 40000, "puertas": 4, "transmision": "Automatico", "color": "Azul" },
+    { "marca": "Land Rover", "modelo": "Range Rover", "año": 2022, "precio": 90000, "puertas": 4, "transmision": "Automatico", "color": "Blanco" },
+    { "marca": "Fiat", "modelo": "500", "año": 2017, "precio": 12000, "puertas": 2, "transmision": "Manual", "color": "Rojo" },
+    { "marca": "Toyota", "modelo": "Supra", "año": 2022, "precio": 55000, "puertas": 2, "transmision": "Manual", "color": "Negro" }
+]
